@@ -16,3 +16,13 @@ Just drop the two files (`vtn`, `vtn.dat`) in there, and just running
 
 If you just want to get these fortunes, have the two files in your
 current working directory, and do `fortune vtn`.
+
+## Contributing
+To add your own quotes to the file, just clone the repo, and edit `vtn`.
+Quotes are separated by the `%` symbol, which goes on its own line.
+
+The `vtn.dat` file is updated with `strfile vtn`.
+
+Since there are multiple sources of quotes, the ordering of the file
+will differ and likely I will just remake my own .dat with my master
+copy of the file. Try not to include it in PRs, it's no use to me.
