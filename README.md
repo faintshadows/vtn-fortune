@@ -4,9 +4,12 @@ I wanted a somewhat easy way to get used to using git/GitHub, without
 needing to also know how to code. So I decided to make my sticker pack
 of a vintage rare telegram group into fun fortune-mod fortunes.
 
-**Hey watch out, many of these fortunes are lewd in nature**
-You may want to put these in the `off` folder for your fortunes, just
-to be sure while I go about separating them.
+**Hey watch out, many of these fortunes are lewd/explicit in nature**
+Like, a lot of them. I did not expect there to be that many when
+I did this.
+You may want to put these in the `off` (offensive) folder for your
+fortunes so you don't accidentally bring this up when there are others
+watching.
 
 ## To Install
 For me, on Gentoo, the fortunes are located at `/usr/share/fortune`.
