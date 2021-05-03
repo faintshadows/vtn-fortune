@@ -7,6 +7,8 @@ of a vintage rare telegram group into fun fortune-mod fortunes.
 **Hey watch out, many of these fortunes are lewd/explicit in nature**
 Like, a lot of them. I did not expect there to be that many when
 I did this. The nsfw fortunes are in the `off/vtn` file.
+(As of now, in my testing `fortune` won't pick any from the `off/vtn` file,
+you have to specify it manually.)
 
 ## To Install
 For me, on Gentoo, the fortunes are located at `/usr/share/fortune`.
